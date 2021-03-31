@@ -1,0 +1,25 @@
+[
+  {
+    "account": "0xB5AbDABE50b5193d4dB92a16011792B22bA3Ef51",
+    "amount": "102000000000000000",
+    "proof": [
+      "0x082a98bec14565e1e79f2beebc8a977d2e898d3a0307957a40ab579182c7d2da",
+      "0xdced795f40ed4222884139c870e6f6c423f67e803760b383089028787d66bce6"
+    ]
+  },
+  {
+    "account": "0xdf826ff6518e609E4cEE86299d40611C148099d5",
+    "amount": "201000000000000000",
+    "proof": [
+      "0x5ddae1c4b32d3af66f51ee3839f43a0e76a2b9018ce96d3d7ff484c22f87bbad",
+      "0xdced795f40ed4222884139c870e6f6c423f67e803760b383089028787d66bce6"
+    ]
+  },
+  {
+    "account": "0xcc4ba6Ef2aC12FA5932ef584ebc4a762FE970919",
+    "amount": "350000000000000000",
+    "proof": [
+      "0x99a2ea3de5c88456ad6a37598c89a721fc22e64574f50c16f33e35ec6c67c0f5"
+    ]
+  }
+]
